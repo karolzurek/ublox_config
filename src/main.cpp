@@ -5,6 +5,8 @@
 
   Serial monitor baud rate is set at 115200.
 
+  source: https://stuartsprojects.github.io/2018/08/26/Generating-UBLOX-GPS-Configuration-Messages.html
+
 *******************************************************************************************************/
 
 #define RXpin 5              //this is the pin that the Arduino will use to receive data from the GPS
